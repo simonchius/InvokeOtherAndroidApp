@@ -1,4 +1,5 @@
 #Invoke other application's specific page (Activity) - Android
+
 Why open other application's page?
 We need not build all the features in our application when we can use the other application's feature. For example :
 If We want to read a pdf file in our application, we don't actually need to create an activity to read the file and show it on the View. rather we can call the application which is capable of displaying the pdf file.
